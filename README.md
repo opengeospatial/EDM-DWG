@@ -1,2 +1,2 @@
-# EDM-DWG
-This is a public repository for the Emergency and Disaster Management Domain Working Group
+# Emergency and Disaster Management Domain Working Group
+The mission of the Emergency and Disaster Management (EDM) DWG is to improve efficiency and effectiveness of users in all phases of emergency and disaster activities communities through changes and extensions to OGC Standards, which result in interoperable geospatial products and other information consumables that can be shared across these communities.
