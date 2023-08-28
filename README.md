@@ -1,7 +1,7 @@
 # Emergency and Disaster Management Domain Working Group
 The mission of the Emergency and Disaster Management (EDM) DWG is to improve efficiency and effectiveness of users in all phases of emergency and disaster activities communities through changes and extensions to OGC Standards, which result in interoperable geospatial products and other information consumables that can be shared across these communities.
 
-Please [join the EDM DWG mailing list](https://lists.ogc.org/mailman/listinfo/EDM.DWG) to stay up-to-date on group activies and post questions for this community of experts.
+Please [join the EDM DWG mailing list](https://lists.ogc.org/mailman/listinfo/EDM.DWG) to stay up-to-date on group activities and post questions for this community of experts.
 
 
 
