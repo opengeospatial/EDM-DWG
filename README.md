@@ -1,6 +1,10 @@
 # Emergency and Disaster Management Domain Working Group
 The mission of the Emergency and Disaster Management (EDM) DWG is to improve efficiency and effectiveness of users in all phases of emergency and disaster activities communities through changes and extensions to OGC Standards, which result in interoperable geospatial products and other information consumables that can be shared across these communities.
 
+Please [join the EDM DWG mailing list](https://lists.ogc.org/mailman/listinfo/EDM.DWG) to stay up-to-date on group activies and post questions for this community of experts.
+
+
+
 # 1. Introduction and Background
 
 Since OGC's inception in 1994, the OGC standards development process has been heavily influenced by the needs of the emergency management / response, Homeland Security and disaster management communities working to advance standards for improved information sharing, situational awareness and decision making. Many of OGC's working group activities, testbeds and pilot initiatives have been driven by requirements and use cases provided by representatives from these communities. Examples include:
